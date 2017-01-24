@@ -1,0 +1,36 @@
+.gameover{
+    margin: 10px;
+}
+
+
+.justcause{
+    padding: 5px;
+    margin: 10px;
+}
+
+.system32{
+	margin: 11px;
+}
+
+h2, .h2 {
+    font-size: 22px;
+}
+
+.page-header {
+    padding-bottom: 8px;
+    margin: -1px 0 20px;
+    border-bottom: 1px solid #eee;
+}
+
+th, td {
+    margin: 5px;
+}
+
+th{
+    text-align:center;
+}
+
+table {
+	text-align: center;
+}
+
